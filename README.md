@@ -1,7 +1,7 @@
 # TrainingGit
 
 ## Plano de Aula
-
+Editando
 Treinamento de GIT/GitHub
 
 Instrutor: Jefson Rosa Florêncio
